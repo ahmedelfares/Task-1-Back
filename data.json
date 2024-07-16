@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Fares",
+        "city": "cairo"
+    },
+    {
+        "id": 2,
+        "name": "samy",
+        "city": "alex"
+    },
+    {
+        "id": 3,
+        "name": "ali",
+        "city": "cairo"
+    },
+    {
+        "id": 4,
+        "name": "sasa",
+        "city": "cairo"
+    },
+    {
+        "id": 5,
+        "name": "saif",
+        "city": "cairo"
+    },
+    {
+        "id": 6,
+        "name": "moo",
+        "city": "cairo"
+    },
+    {
+        "id": 7,
+        "name": "ahmed",
+        "city": "alex"
+    }
+]
